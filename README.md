@@ -23,7 +23,11 @@
 
 <div align=center><h1>🎳 About Me 🎳</h1></div>
 <div align=center> 
-<img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/kong.94y/"></a>
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> <a href="https://instagram.com/fivepxint">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 <!--
 **JaeHyunKong/JaeHyunKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
