@@ -23,10 +23,9 @@
 
 <div align=center><h1>🎳 About Me 🎳</h1></div>
 <div align=center> 
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/fivepxint">
+</a> <a href="https://instagram.com/kong.94y">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
+        src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/kong.94y/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 <!--
