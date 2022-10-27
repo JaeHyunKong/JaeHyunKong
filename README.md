@@ -1,7 +1,6 @@
-<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
-text=Kong JaeHyun&fontSize=32&
-animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
-
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hi%20There&fontSize=100">
+<div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -32,6 +31,10 @@ animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
         src="http://img.shields.io/badge/-Instagram-pink?style=flat&logo=Instagram&link=https://instagram.com/kong.94y/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
+  
+  <div align=center>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=&fontSize=100">
+<div>
 <!--
 **JaeHyunKong/JaeHyunKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
