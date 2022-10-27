@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src = "https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&
+text=Kong JaeHyun&fontSize=32&
+animation=fadeIn&fontAlignY=36&fontColor=ffffff"/>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
